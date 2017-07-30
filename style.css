@@ -1,0 +1,120 @@
+body {
+    background-color: #99d9ea;
+    font-family: sans-serif;
+    color: #fff;
+}
+
+header {
+    background-color: #00587D;
+    text-align: center;
+    font-size: 5vw;
+    margin: 1% 0% 1% 0%;
+    width: 80%;
+    padding: 1.5% 0% 1.5% 0%;
+}
+
+.leftsection {
+    background-color: #007db3;
+    width: 39.5%;
+    float: left;
+    margin: 0% 0% 1% 10%;
+    height: 125vh;
+    min-height: 100%;
+}
+
+.rightsection {
+    background: #007db3;
+    width: 39.5%;
+    float: left;
+    margin: 0% 0% 0% 1%;
+    height: 125vh;
+}
+
+label {
+    font-size: 1.3vw;
+}
+
+.tableclass {
+    width: 90%;
+    margin-left: 10%;
+}
+
+div.information {
+    font-size: 1.6vw;
+    color: #fff;
+    padding: 6% 6% 2% 6%;
+}
+
+.inputfield {
+    font-size: 1.4vw;
+    padding: 1.5% 1.5% 1.5% 1.5%;
+    margin: 2% 2% 2% 2%;
+    width: 80%;
+}
+
+.button {
+    margin: 40px 0px 0px 267px;
+    font-size: 1.6vw;
+    background-color: #00587D;
+    color: #fff;
+    width: 40%;
+    padding: 1% 1% 1% 1%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+.onesection {
+    padding: 18% 5% 5% 5%; 
+    background-color: #007db3;
+    margin: 0% 10% 0% 10%;
+    height: 60vh;
+    margin-bottom: 1%;
+    text-align: center;
+    font-size: 1.5vw;
+}
+
+.menu {
+    background-color: #00587D;
+    float: left;
+    width: 24.5%;
+    margin-left: 0.5%;
+    text-align: center;
+    font-size: 1.6vw;
+    padding: 1% 0% 1% 0%;
+}
+
+.menu_selected {
+    background-color: #007db3;
+    float: left;
+    width: 24.5%;
+    margin-left: 0.5%;
+    text-align: center;
+    font-size: 1.6vw;
+    padding: 1% 0% 1% 0%;
+}
+
+nav {
+    margin: 1% 10% 1% 9.5%;
+}
+
+.student_detail_section {
+    padding: 3% 5% 10% 5%; 
+    background-color: #007db3;
+    margin: 5% 10% 0% 10%;
+    margin-bottom: 1%;
+    overflow: hidden;
+    font-size: 1.4vw;
+}
+
+.score_table {
+    width: 32%;
+    margin: 0% 0.5% 0% .5%;
+    float: left;
+    font-size: 1.4vw;
+}
